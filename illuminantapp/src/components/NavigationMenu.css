@@ -1,0 +1,25 @@
+.navigation-menu {
+  background-color: #f4f4f4;
+  padding: 10px 20px;
+}
+
+.navigation-menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navigation-menu ul li {
+  margin-right: 20px;
+}
+
+.navigation-menu ul li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+.navigation-menu ul li a:hover {
+  text-decoration: underline;
+}
